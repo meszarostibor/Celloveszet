@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SULI\\ASZTALI_ALKALMAZAS\\Celloveszet\\celloveszetCLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{391025BE-0DA3-4200-83A6-F9C279841355}|celloveszetCLI\\celloveszetCLI.csproj|d:\\suli\\asztali_alkalmazas\\celloveszet\\celloveszetcli\\celloveszetcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391025BE-0DA3-4200-83A6-F9C279841355}|celloveszetCLI\\celloveszetCLI.csproj|solutionrelative:celloveszetcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41230E2A-2F48-4BB6-8935-C05EDF39B903}|celloveszetCLITests\\celloveszetCLITests.csproj|d:\\suli\\asztali_alkalmazas\\celloveszet\\celloveszetcli\\celloveszetclitests\\cellovotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41230E2A-2F48-4BB6-8935-C05EDF39B903}|celloveszetCLITests\\celloveszetCLITests.csproj|solutionrelative:celloveszetclitests\\cellovotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391025BE-0DA3-4200-83A6-F9C279841355}|celloveszetCLI\\celloveszetCLI.csproj|d:\\suli\\asztali_alkalmazas\\celloveszet\\celloveszetcli\\celloveszetcli\\cellovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391025BE-0DA3-4200-83A6-F9C279841355}|celloveszetCLI\\celloveszetCLI.csproj|solutionrelative:celloveszetcli\\cellovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391025BE-0DA3-4200-83A6-F9C279841355}|celloveszetCLI\\celloveszetCLI.csproj|d:\\suli\\asztali_alkalmazas\\celloveszet\\celloveszetcli\\celloveszetcli\\lovesek.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{391025BE-0DA3-4200-83A6-F9C279841355}|celloveszetCLI\\celloveszetCLI.csproj|solutionrelative:celloveszetcli\\lovesek.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CellovoTests.cs",
+              "DocumentMoniker": "D:\\SULI\\ASZTALI_ALKALMAZAS\\Celloveszet\\celloveszetCLI\\celloveszetCLITests\\CellovoTests.cs",
+              "RelativeDocumentMoniker": "celloveszetCLITests\\CellovoTests.cs",
+              "ToolTip": "D:\\SULI\\ASZTALI_ALKALMAZAS\\Celloveszet\\celloveszetCLI\\celloveszetCLITests\\CellovoTests.cs",
+              "RelativeToolTip": "celloveszetCLITests\\CellovoTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAawBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:23:38.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lovesek.csv",
+              "DocumentMoniker": "D:\\SULI\\ASZTALI_ALKALMAZAS\\Celloveszet\\celloveszetCLI\\celloveszetCLI\\lovesek.csv",
+              "RelativeDocumentMoniker": "celloveszetCLI\\lovesek.csv",
+              "ToolTip": "D:\\SULI\\ASZTALI_ALKALMAZAS\\Celloveszet\\celloveszetCLI\\celloveszetCLI\\lovesek.csv",
+              "RelativeToolTip": "celloveszetCLI\\lovesek.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-05-22T18:13:07.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cellovo.cs",
+              "DocumentMoniker": "D:\\SULI\\ASZTALI_ALKALMAZAS\\Celloveszet\\celloveszetCLI\\celloveszetCLI\\Cellovo.cs",
+              "RelativeDocumentMoniker": "celloveszetCLI\\Cellovo.cs",
+              "ToolTip": "D:\\SULI\\ASZTALI_ALKALMAZAS\\Celloveszet\\celloveszetCLI\\celloveszetCLI\\Cellovo.cs",
+              "RelativeToolTip": "celloveszetCLI\\Cellovo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:00:02.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SULI\\ASZTALI_ALKALMAZAS\\Celloveszet\\celloveszetCLI\\celloveszetCLI\\Program.cs",
+              "RelativeDocumentMoniker": "celloveszetCLI\\Program.cs",
+              "ToolTip": "D:\\SULI\\ASZTALI_ALKALMAZAS\\Celloveszet\\celloveszetCLI\\celloveszetCLI\\Program.cs",
+              "RelativeToolTip": "celloveszetCLI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:58:20.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

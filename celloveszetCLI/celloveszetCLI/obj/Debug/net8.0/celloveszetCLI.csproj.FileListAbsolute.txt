@@ -1,0 +1,15 @@
+D:\SULI\ASZTALI_ALKALMAZAS\Celloveszet\celloveszetCLI\celloveszetCLI\bin\Debug\net8.0\celloveszetCLI.exe
+D:\SULI\ASZTALI_ALKALMAZAS\Celloveszet\celloveszetCLI\celloveszetCLI\bin\Debug\net8.0\lovesek.csv
+D:\SULI\ASZTALI_ALKALMAZAS\Celloveszet\celloveszetCLI\celloveszetCLI\bin\Debug\net8.0\celloveszetCLI.deps.json
+D:\SULI\ASZTALI_ALKALMAZAS\Celloveszet\celloveszetCLI\celloveszetCLI\bin\Debug\net8.0\celloveszetCLI.runtimeconfig.json
+D:\SULI\ASZTALI_ALKALMAZAS\Celloveszet\celloveszetCLI\celloveszetCLI\bin\Debug\net8.0\celloveszetCLI.dll
+D:\SULI\ASZTALI_ALKALMAZAS\Celloveszet\celloveszetCLI\celloveszetCLI\bin\Debug\net8.0\celloveszetCLI.pdb
+D:\SULI\ASZTALI_ALKALMAZAS\Celloveszet\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.GeneratedMSBuildEditorConfig.editorconfig
+D:\SULI\ASZTALI_ALKALMAZAS\Celloveszet\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.AssemblyInfoInputs.cache
+D:\SULI\ASZTALI_ALKALMAZAS\Celloveszet\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.AssemblyInfo.cs
+D:\SULI\ASZTALI_ALKALMAZAS\Celloveszet\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.csproj.CoreCompileInputs.cache
+D:\SULI\ASZTALI_ALKALMAZAS\Celloveszet\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.dll
+D:\SULI\ASZTALI_ALKALMAZAS\Celloveszet\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\refint\celloveszetCLI.dll
+D:\SULI\ASZTALI_ALKALMAZAS\Celloveszet\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.pdb
+D:\SULI\ASZTALI_ALKALMAZAS\Celloveszet\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.genruntimeconfig.cache
+D:\SULI\ASZTALI_ALKALMAZAS\Celloveszet\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\ref\celloveszetCLI.dll
